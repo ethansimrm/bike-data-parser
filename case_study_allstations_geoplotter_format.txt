@@ -1,0 +1,45 @@
+Start_Stations
+Casual 5
+41.892278,-87.612043,red,square,"1",
+41.880958,-87.616743,red,square,"2"
+41.926277,-87.630834,red,square,"3"
+41.911722,-87.626804,red,square,"4"
+41.867888,-87.623041,red,square,"5"
+
+Member 5
+41.902973,-87.63128"1",
+41.926277,-87.630834,blue,circle,"2"
+41.912133,-87.634656,blue,circle,"3"
+41.911722,-87.626804,blue,circle,"4"
+41.903222,-87.634324,blue,circle,"5"
+
+End_Stations
+Casual 5
+41.892278,-87.612043,red,square,		
+41.880958,-87.616743,red,square,		
+41.926277,-87.630834,red,square,		
+41.911722,-87.626804,red,square,		
+41.867888,-87.623041,red,square,		
+
+Member 5
+41.902973,-87.63128,blue,circle,	
+41.926277,-87.630834,blue,circle,	
+41.912133,-87.634656,blue,circle,	
+41.911722,-87.626804,blue,circle,	
+41.93758232,-87.64409781,blue,circle,	
+
+Journeys
+Casual 5
+41.880958,-87.616743,red,square,
+41.892278,-87.612043,red,square,		
+41.886976,-87.612813,red,square,			
+41.926277,-87.630834,red,square,			
+41.911722,-87.626804,red,square,
+
+Member 5
+41.842052,-87.617,blue,circle,
+41.834734,-87.625813,blue,circle,
+41.78509715,-87.60107276,blue,circle,
+41.79430062,-87.60144977,blue,circle
+41.8349,-87.61793,blue,circle	
+
